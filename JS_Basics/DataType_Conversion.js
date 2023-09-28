@@ -20,8 +20,9 @@ console.log(typeof D);
 let W=String(D);
 console.log(W);
 
-let logIN = "hii";
+let logIN = "gii";
 console.log(Boolean(logIN));
+console.log(Number(logIN));
 
 
 // "33" => 33
