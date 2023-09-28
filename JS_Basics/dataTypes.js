@@ -8,5 +8,5 @@ console.log(a); // will return null which is not 0, null means nothing, means we
 
 console.log(typeof null) // type of null will be object
 console.log(typeof undefined) // type of undefined will be undefined
-console.log(typeof Symbol)
+console.log(typeof Symbol) // type of symbol will be function
 
